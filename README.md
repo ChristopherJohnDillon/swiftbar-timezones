@@ -6,6 +6,8 @@ across in the macOS menu bar, with a 24-hour side-by-side planner for finding a 
 > **Requires SwiftBar** (free, open source): `brew install --cask swiftbar` or download it from
 > [github.com/swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar/releases).
 
+<img src="docs/menu.png" alt="Menu bar showing PST, EST and GMT, with the dropdown's 24-hour planner" width="280">
+
 **In the menu bar:** an emoji + the local time for each zone you pick, e.g. `🌴04:15 🗽07:15 🇬🇧12:15`.
 A zone turns **orange** when it's outside work hours there.
 
